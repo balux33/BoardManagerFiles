@@ -11,16 +11,17 @@
       "platforms": [
         {
           "name": "Arduino_STM32_balux33",
-          "architecture": "stm32",
+          "architecture": "STM32F1",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/balux33/BoardManagerFiles/raw/master/Arduino_STM32_v1.0.tar.tar.gz",
-          "archiveFileName": "Arduino_STM32_v1.0.tar.tar.gz",
-          "checksum": "SHA-256:0db22a2fcc1bc98581808e4b46ef442fa5e225de935c37aa2b799fd6c6394d01",
-          "size": "75494942",
+          "url": "https://github.com/balux33/BoardManagerFiles/raw/master/Arduino_STM32_v1.0.tar.gz",
+          "archiveFileName": "Arduino_STM32_v1.0.tar.gz",
+          "checksum": "SHA-256:d784daef70bc1955da08c98ca1a88f750c174adcaa2fb31b9d8065d46722982d",
+          "size": "63953974",
           "boards": [
             {"name": "Generic STM32F103C"},
-            {"name": "NaN1"}
+            {"name": "NaN1"},
+			{"name": "Mini_STM32"}
           ],
           "toolsDependencies": []
         }
