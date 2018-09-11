@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/balux33/BoardManagerFiles/raw/master/Arduino_STM32_v1.0.tar.gz",
           "archiveFileName": "Arduino_STM32_v1.0.tar.gz",
-          "checksum": "SHA-256:d784daef70bc1955da08c98ca1a88f750c174adcaa2fb31b9d8065d46722982d",
-          "size": "63953974",
+          "checksum": "SHA-256:d38a28b42ff3e73b632a46b3c04109ed7b42fe116ae56b5ad4096128132aa4e7",
+          "size": "63900638",
           "boards": [
             {"name": "Generic STM32F103C"},
             {"name": "NaN1"},
