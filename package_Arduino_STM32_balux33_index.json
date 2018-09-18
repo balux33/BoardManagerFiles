@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/balux33/BoardManagerFiles/raw/master/Arduino_STM32_v1.0.tar.gz",
           "archiveFileName": "Arduino_STM32_v1.0.tar.gz",
-          "checksum": "SHA-256:4db4f55571aece290a1995c651fba4b109a0bcd061e5125effa22e8e3618f868",
-          "size": "24620287",
+          "checksum": "SHA-256:e079633d3f4c0615c431ee336adc7bf18222f69fff4494e0bec9b1cd77b835a7",
+          "size": "24676401",
           "boards": [
             {"name": "NaN1"},
 			{"name": "Mini_STM32"},
