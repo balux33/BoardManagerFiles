@@ -10,18 +10,18 @@
       },
       "platforms": [
         {
-          "name": "Arduino_STM32_balux33",
+          "name": "HADDPHI NaN1 Board",
           "architecture": "STM32F1",
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/balux33/BoardManagerFiles/raw/master/Arduino_STM32_v1.0.tar.gz",
           "archiveFileName": "Arduino_STM32_v1.0.tar.gz",
-          "checksum": "SHA-256:1ef798ff76dce5aaea823a36cb09a5e1c461bf31d650d2bc38e7a5da19a65f93",
-          "size": "27382740",
+          "checksum": "SHA-256:4db4f55571aece290a1995c651fba4b109a0bcd061e5125effa22e8e3618f868",
+          "size": "24620287",
           "boards": [
-            {"name": "Generic STM32F103C"},
             {"name": "NaN1"},
-			{"name": "Mini_STM32"}
+			{"name": "Mini_STM32"},
+			{"name": "Generic STM32F103C"}
           ],
           "toolsDependencies": [
 		    {
