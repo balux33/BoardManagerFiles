@@ -14,8 +14,8 @@
           "architecture": "STM32F1",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/balux33/BoardManagerFiles/raw/master/NaN1_Arduino_v1.0.tar",
-          "archiveFileName": "NaN1_Arduino_v1.0.tar",
+          "url": "https://github.com/balux33/BoardManagerFiles/raw/master/NaN1_Arduino_v1.0.tar.gz",
+          "archiveFileName": "NaN1_Arduino_v1.0.tar.gz",
           "checksum": "SHA-256:246962977560dee14fecd2d6fa80fd7a6c27a2160455ecf5e051dc5af6a810bc",
           "size": "24629729",
           "boards": [
